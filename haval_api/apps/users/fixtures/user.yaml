@@ -1,0 +1,55 @@
+# Groups
+- model: "auth.Group"
+  pk: 1
+  fields:
+    name: "merch"
+    permissions: [4,]
+- model: "auth.Group"
+  pk: 2
+  fields:
+    name: "delivery"
+    permissions: [1,2,]
+- model: "auth.Group"
+  pk: 3
+  fields:
+    name: "collector"
+- model: "auth.Group"
+  pk: 4
+  fields:
+    name: "agent"
+    permissions: [5, ]
+
+# Users
+- model: "users.User"
+  pk: 1
+  fields:
+    username: "test1@example.com"
+    # Password manual generate
+    # from django.contrib.auth.hashers import make_password
+    # make_password('current_password_123')
+    password: "pbkdf2_sha256$30000$rirjQwUOYtl8$EB8NuU4D9x005OMLkCZ9NsTX9TpZ3oQLjsg9gPqIc2Q="
+    groups: [2, 3]
+    user_permissions: [3, 4]
+    is_superuser: True
+- model: "users.User"
+  pk: 2
+  fields:
+    username: "test2@example.com"
+    # Password manual generate
+    # from django.contrib.auth.hashers import make_password
+    # make_password('current_password_123')
+    password: "pbkdf2_sha256$30000$rirjQwUOYtl8$EB8NuU4D9x005OMLkCZ9NsTX9TpZ3oQLjsg9gPqIc2Q="
+    groups: [2, 3]
+    user_permissions: [3, 4]
+    is_superuser: False
+- model: "users.User"
+  pk: 3
+  fields:
+    username: "test3@example.com"
+    # Password manual generate
+    # from django.contrib.auth.hashers import make_password
+    # make_password('current_password_123')
+    password: "pbkdf2_sha256$30000$rirjQwUOYtl8$EB8NuU4D9x005OMLkCZ9NsTX9TpZ3oQLjsg9gPqIc2Q="
+    groups: [2, 3]
+    user_permissions: [3, 4]
+    is_superuser: False
