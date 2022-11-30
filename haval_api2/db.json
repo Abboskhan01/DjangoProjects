@@ -1,0 +1,338 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2021-10-31T23:22:09.857",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "1",
+      "object_repr": "Haval H6",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2021-10-31T23:25:36.741",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "SUPREME",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2021-10-31T23:29:11.615",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FASHIONABLE",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2021-10-31T23:29:42.018",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "1",
+      "object_repr": "12",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2021-10-31T23:31:04.884",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "1",
+      "object_repr": "1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2021-10-31T23:32:09.686",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "2",
+      "object_repr": "2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2021-11-01T06:53:51.523",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "2",
+      "object_repr": "Haval H9",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2021-11-01T06:54:00.201",
+      "user": 1,
+      "content_type": 15,
+      "object_id": "2",
+      "object_repr": "Haval H9",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2021-11-01T06:59:31.746",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "SUPREME",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Cost\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2021-11-01T07:50:00.686",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FASHIONABLE",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Cost\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2021-11-01T07:51:34.735",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FASHIONABLE",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Cost\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2021-11-01T07:52:13.149",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FASHIONABLE",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Cost\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2021-11-01T07:55:39.941",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FASHIONABLE",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Cost\"]}}]"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0yi1kiw3c2tvoncj98sc0caaavwi40kd",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2pABClKX7nsGMsOAVA0kpV0Z765NutDtf-_9lwi4rSVsPS1hZnERSpx-N8L4SHUHfMd6azK2ui4zyV2RB-1yapye18P9OyjYy7eOACaeFUPO3lk0CsesYaAMlLPz3g_ELjmrvebE6NhZJtJKAXutzCjeH-v-N_Y:1mhD63:BCEVpg5TsIxuqkA6tHqr5ld5Mmspo3ShCURGRTowfds",
+      "expire_date": "2021-11-14T20:50:11.855"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "s3ygwig6r4by78g9fsujupo3sim5mv6r",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2pABClKX7nsGMsOAVA0kpV0Z765NutDtf-_9lwi4rSVsPS1hZnERSpx-N8L4SHUHfMd6azK2ui4zyV2RB-1yapye18P9OyjYy7eOACaeFUPO3lk0CsesYaAMlLPz3g_ELjmrvebE6NhZJtJKAXutzCjeH-v-N_Y:1mhMK0:iJF_6xoyIrriP8dAMA_BhrDlQXNfHGnC_Fl_jhv-Gtk",
+      "expire_date": "2021-11-15T06:41:12.771"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$LgD4GbZluoehqZeRsJGzR7$bq/zL2QpH8S2E9NlNYXr21E+2uqxOQ3ZMtvo+1ZfEhg=",
+      "last_login": "2021-11-01T06:41:12.767",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@ghamil.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-10-31T20:49:16.758",
+      "language": null,
+      "photo": null,
+      "theme": "('1', 'Light')",
+      "phone_number": null,
+      "mac_address": {},
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "automobile.car",
+    "pk": 1,
+    "fields": {
+      "created_date": "2021-10-31T23:22:09.827",
+      "modified_date": "2021-11-01T07:55:39.939",
+      "title": "Haval H6",
+      "cost_from": 143000000.0,
+      "color": "#FFFFFF",
+      "about": "Havalning zamonaviy dizayni har bir detalda yangi mahsulotning kuchi va yo'ltanlamasning yuqori ko'rsatkichlarini aks ettiradi. Avtomobil haqiqiy SUVlarga xos soddaligi, ishonchliligi va funktsional qulayligini birlashtiradi.",
+      "internal_possibility": "���������� �������� ������� �� 810 ������* ��� �������� �� ���� �� ������� � ��������� ����� � ����������� �� �����������. ��������� ���� ������� ������������� ���������, � ��� ����� ������� ����������� ������ �������, ����� ���������� ���������������� ����� � ���� ���������� ������ ����������. ������� ��������� ����� ��������� ���������� ������������ ���������������.\r\n\r\n Old o'rindiqlar isitiladi va ventilyatsiya qilinadi\r\n Old o'rindiqlar isitiladi va ventilyatsiya qilinadi",
+      "appearance": "Aylana xavfsizlik\r\n\r\nUch o�lchamli xavfsizlik konstruksiyasi �yo�lovchi, piyoda va avtomobilni har tomonlama himoyalash� konsepsiyasi tufayli All New HAVAL H6 modeli IIHS va E-NCAP tizimlari bilan eng yuqori jahon xavfsizlik standartlariga javob beradi. All New HAVAL H6 C-NCAP bo�yicha 5 yulduzga sazovor bo�ldi.\r\n\r\nGW4B15 dvigateli\r\n\r\nUshbu HAVAL H6 versiyasida bevosita yoqilg�i yuborish tizimili 1.5 l turbolangan benzin dvigatellari, ikkitali VVL texnologiyasining gaz taqsimlash tizimi va 7 pog�onali ikkitali ilashish tizimiga ega nam turdagi DCT-transmissiyasi tufayli yangi darajadagi quvvatga erishilgan.\r\n\r\n \r\n\r\n7 pog�onali DCT transmissiyasi\r\n\r\nNam turdagi ikki ilashish tizimili uzatish - barqaror harakat, tezkor reaksiya va uzatishda qoniqarli darajadagi mayinlikni ta`minlaydi. Ushbu transmissiya uzilish fursatini bekor qiladi va yoqilg�i sarfining samaradorligini sezilarli darajada oshiradi. 0,2 soniya atrofida tezkor uzatishni ta�minlaydi, bunda esa uzilishlar deyarli sezilmaydi va bu bilan qulaylik bag�ishlaydi.",
+      "internal_photo": "image_56_ugniwXV.png",
+      "external_photo": "image_57_W8Pxsv2.png",
+      "side_photo": "oq_h5e6lLA.png",
+      "is_active": true
+    }
+  },
+  {
+    "model": "automobile.car",
+    "pk": 2,
+    "fields": {
+      "created_date": "2021-11-01T06:53:51.491",
+      "modified_date": "2021-11-01T06:54:00.200",
+      "title": "Haval H9",
+      "cost_from": 450000000.0,
+      "color": "#000000",
+      "about": "about info H9",
+      "internal_possibility": "about info H9",
+      "appearance": "appearance H9",
+      "internal_photo": "image_56_ugniwXV_jgkBeq4.png",
+      "external_photo": "image_57_W8Pxsv2_Aomi6na.png",
+      "side_photo": "oq_h5e6lLA_jhls78f.png",
+      "is_active": true
+    }
+  },
+  {
+    "model": "automobile.positioncategory",
+    "pk": 1,
+    "fields": {
+      "created_date": "2021-10-31T23:25:36.739",
+      "modified_date": "2021-11-01T06:59:31.745",
+      "car": 1,
+      "name": "SUPREME",
+      "cost": 280000000.0,
+      "engine": "1,5-�������� ��������� ��������� GW4B15 � ������������� + 130 ���",
+      "fuel": "Benzin",
+      "available_volume": "1967",
+      "drive_type": "7 qadamli",
+      "transmission_box": "avtomatik karobka",
+      "overclocking_time": 10.0,
+      "max_speed": 163,
+      "lockingRearWheelDifferential": true,
+      "automaticAutoHold": true,
+      "childSeatLock": true,
+      "led_headlight": "2022 upd",
+      "full_weight": 2230.0,
+      "empty_weight": 1720.0,
+      "height": 1690.0,
+      "width": 1846.0,
+      "length": 4620.0,
+      "seats_count": 7
+    }
+  },
+  {
+    "model": "automobile.positioncategory",
+    "pk": 2,
+    "fields": {
+      "created_date": "2021-10-31T23:29:11.613",
+      "modified_date": "2021-11-01T07:55:39.940",
+      "car": 1,
+      "name": "FASHIONABLE",
+      "cost": 143000000.0,
+      "engine": "1,5-�������� ��������� ��������� GW4B15 � ������������� + 130 ���",
+      "fuel": "Benzin",
+      "available_volume": "1967",
+      "drive_type": "7 qadamli",
+      "transmission_box": "ruchnoy",
+      "overclocking_time": 10.0,
+      "max_speed": 180,
+      "lockingRearWheelDifferential": false,
+      "automaticAutoHold": false,
+      "childSeatLock": false,
+      "led_headlight": "2000 upd",
+      "full_weight": 2300.0,
+      "empty_weight": 2200.0,
+      "height": 160.0,
+      "width": 100.0,
+      "length": 450.0,
+      "seats_count": 7
+    }
+  },
+  {
+    "model": "calculator.cridet",
+    "pk": 1,
+    "fields": {
+      "created_date": "2021-10-31T23:29:42.016",
+      "modified_date": "2021-10-31T23:29:42.016",
+      "car": 1,
+      "model": 1,
+      "month": 12,
+      "status": 1
+    }
+  },
+  {
+    "model": "calculator.payment",
+    "pk": 1,
+    "fields": {
+      "credit": 1,
+      "order": 1,
+      "sum": 50000000.0,
+      "percent": 12.0,
+      "total": 350000000.0,
+      "remain": 300000000.0
+    }
+  },
+  {
+    "model": "calculator.payment",
+    "pk": 2,
+    "fields": {
+      "credit": 1,
+      "order": 2,
+      "sum": 20000000.0,
+      "percent": 12.0,
+      "total": 350000000.0,
+      "remain": 280000000.0
+    }
+  }
+]

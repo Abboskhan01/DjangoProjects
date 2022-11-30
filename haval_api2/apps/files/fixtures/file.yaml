@@ -1,0 +1,27 @@
+#Files
+-
+    model: "files.File"
+    pk: 1
+    fields:
+      name: "my_file"
+      file: "test.jpg"
+      modified_date: "2017-01-01T00:00:00.10000000"
+      created_date: "2017-01-01T00:00:00.10000000"
+
+-
+    model: "files.File"
+    pk: 2
+    fields:
+      name: "my_file2"
+      file: "test.jpg"
+      modified_date: "2017-01-02T00:00:00.10000000"
+      created_date: "2017-01-02T00:00:00.10000000"
+
+-
+    model: "files.File"
+    pk: 3
+    fields:
+      name: "my_file3"
+      file: "test.jpg"
+      modified_date: "2017-01-03T00:00:00.10000000"
+      created_date: "2017-01-03T00:00:00.10000000"
