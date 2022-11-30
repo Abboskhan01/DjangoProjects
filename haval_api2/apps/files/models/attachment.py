@@ -16,6 +16,7 @@ class Attachment(Model):
 
     # Fields
     object_id = PositiveIntegerField()
+    # object_id = PositiveIntegerField()
     file = FileField(upload_to=get_upload_path)
 
     def __str__(self):
