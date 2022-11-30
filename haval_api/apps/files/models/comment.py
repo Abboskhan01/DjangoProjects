@@ -2,7 +2,7 @@ from django.contrib.contenttypes.fields import GenericForeignKey
 from django.contrib.contenttypes.models import ContentType
 from django.db.models import ForeignKey, CASCADE, TextField, PositiveIntegerField
 
-from shared.django.model import BaseModel
+from haval_api.apps.shared.django.model import BaseModel
 
 
 class Comment(BaseModel):
